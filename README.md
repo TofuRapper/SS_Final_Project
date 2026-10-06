@@ -1,6 +1,6 @@
 # 多人連線合作解謎遊戲 🦖
 
-**▶ 立即遊玩：https://ssfp-2.web.app**（多人連線，可開兩個分頁一起玩）
+**▶ 立即遊玩：https://ssfp-2.web.app**
 
 以 Cocos Creator 2.4 與 TypeScript 開發的多人即時連線 2D 合作解謎平台遊戲，後端採用 Firebase Realtime Database，並部署於 Firebase Hosting 供瀏覽器直接遊玩。本專案為團隊期末專案，以 Git 分支協作完成。
 
